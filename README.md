@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Nitesh Shah</h1>
-<h3 align="center">A passionate Software developer and ML enthusiast</h3>
+<h3 align="center">A passionate Software developer and GenAI enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunlmxd&label=Profile%20views&color=0e75b6&style=flat" alt="varunlmxd" /> </p>
 
@@ -80,7 +80,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 </details>
-
+<details>
   <summary><b>☁️ Deployment</b></summary>
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
